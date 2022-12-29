@@ -74,7 +74,7 @@ Install [xampp](https://www.apachefriends.org/download.html), start your apache 
 ![](https://paper-attachments.dropboxusercontent.com/s_EE1BEE1DB47FA0D07A828BDC02264B4CE72E323F37C7A1C969E6A006E9712B27_1672316285625_screenshoteasy+80.png)
 
 
-to get the database sql file download this file from this link [sql_file_link](https://filebin.net/cefkgzqw71kz9djf/stars.sql) then import the data base to your mysql database 
+to get the database sql file download this file from this link [sql_file_link](https://filebin.net/cefkgzqw71kz9djf/stars.sql) then import the sql file to your mysql database 
 
 To start the app run the following commands
 
