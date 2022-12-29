@@ -68,7 +68,7 @@ Illustration below
     DATABASE='dappstars'
 
 **STEP 4**
-Install xampp, start your apache and mysql in your xampp control panel then navigate to your mysql database which is “localhost/phpmyadmin” and create a database called “dappstars” with a table called “stars” see picture below
+Install [xampp](https://www.apachefriends.org/download.html), start your apache and mysql in your xampp control panel then navigate to your mysql database which is “localhost/phpmyadmin” and create a database called “dappstars” with a table called “stars” see picture below
 
 
 ![](https://paper-attachments.dropboxusercontent.com/s_EE1BEE1DB47FA0D07A828BDC02264B4CE72E323F37C7A1C969E6A006E9712B27_1672316285625_screenshoteasy+80.png)
