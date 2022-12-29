@@ -51,7 +51,8 @@ To install the necessary utilities run the following commands
 **STEP 3**
 
 - go to [verbwire](https://www.verbwire.com/) and create an account 
-- Then register your contracts name and then copy your contracts address and api key
+- create an ERC721 smart contract
+- Then copy your contracts address and api key
 - Go to your ‘config.py’ Replace the VERBWIRE_CONTRACT_ADDRESS with your own contract address 
 - Replace the VERBWIRE_API_KEY with your api key
 - Also ensure your ‘config.py’ looks like this:
