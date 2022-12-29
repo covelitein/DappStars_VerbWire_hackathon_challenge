@@ -37,6 +37,7 @@ Run the following command for project setup :
     code .
 
 **STEP 2**
+Open two terminals for your backend and frontend server
 To install the necessary utilities run the following commands
 
     //to navigate to the backend folder run this command
