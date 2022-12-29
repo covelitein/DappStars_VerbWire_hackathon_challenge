@@ -61,7 +61,7 @@ To install the necessary utilities for the backend run the following commands
 - Then copy your contracts address and api key
 - Go to your *config.py* Replace the VERBWIRE_CONTRACT_ADDRESS with your  contract address 
 - Replace the VERBWIRE_API_KEY with your api key
-- Also ensure your ‘config.py’ looks like this:
+- Also ensure your *config.py* looks like this:
 
 Illustration below
 
